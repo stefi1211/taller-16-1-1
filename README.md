@@ -1,4 +1,7 @@
+Resumen del siguiente artículo => https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces 
+
 ¿Qué es una API?
+
 Básicamente, una API es como un puente que permite que dos aplicaciones puedan hablar entre sí. Esto hace que una aplicación pueda pedirle a otra que haga algo o le dé información, sin tener que saber cómo funciona exactamente esa otra aplicación. Es como una capa intermedia que facilita la comunicación entre programas.
 
 Tipos de APIs:
